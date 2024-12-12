@@ -1,0 +1,35 @@
+.App {
+  border: none;
+  padding: 300px ;
+  padding-top: 0px;
+  margin: 20px 50px ;
+  width: 800px;
+  text-align: center;
+  
+}
+
+.App1 {
+  
+   text-align: center;
+   
+
+}
+
+textarea{
+  width: 100%;
+  border: 1px solid rgb(21, 20, 20);
+  padding: 100px ;
+  margin-left: 0px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+button{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border-radius: 10px ;
+  font-weight: bolder;
+  color: #5e1bdb;
+  padding: 5px;
+  background-color: white;
+  box-sizing: border-box;
+}
